@@ -6,6 +6,9 @@ I've worked in design since 2013, from infographics and brand work to complex da
 
 **Public here**
 
+- [sundae](https://github.com/kierkegaard-source/sundae): a Claude Code skill that adds a private `/preview` route to a Next.js site for switching between design versions of each section.
+- [pin-float](https://github.com/kierkegaard-source/pin-float): pin images as always-on-top floating windows to compare designs or line up a mockup with a live page.
+- [blender-scroll-sequence](https://github.com/kierkegaard-source/blender-scroll-sequence): a procedural Blender scene rendered to AVIF frames and scrubbed on scroll with GSAP.
 - [fugax-showcase](https://github.com/kierkegaard-source/fugax-showcase): encrypted, self-destructing sharing. The key never leaves the browser.
 - [astro-engine](https://github.com/kierkegaard-source/astro-engine): natal chart calculation service on FastAPI and Swiss Ephemeris.
 - [gundem](https://github.com/kierkegaard-source/gundem): a daily Turkish digest of new developer tools, indie games and design releases.
