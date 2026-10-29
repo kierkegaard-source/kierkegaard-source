@@ -11,7 +11,6 @@ I've worked in design since 2013, from infographics and brand work to complex da
 - [blender-scroll-sequence](https://github.com/kierkegaard-source/blender-scroll-sequence): a procedural Blender scene rendered to AVIF frames and scrubbed on scroll with GSAP.
 - [fugax-showcase](https://github.com/kierkegaard-source/fugax-showcase): encrypted, self-destructing sharing. The key never leaves the browser.
 - [astro-engine](https://github.com/kierkegaard-source/astro-engine): natal chart calculation service on FastAPI and Swiss Ephemeris.
-- [gundem](https://github.com/kierkegaard-source/gundem): a daily Turkish digest of new developer tools, indie games and design releases.
 
 Most of my client work lives in private repositories.
 
