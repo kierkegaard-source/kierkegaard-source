@@ -4,12 +4,6 @@ Design engineer in Belgrade. I design interfaces, set the architecture and the t
 
 I've worked in design since 2013, from infographics and brand work to complex dashboards. These days I do the design and the build myself, and I run [Massivate](https://github.com/Massivate), a growth studio.
 
-**On my site**
-
-- [Lab](https://buse.works/lab): WebGL shaders, CSS and canvas studies that run live on the page, each with its controls and source.
-- [Log](https://buse.works/log): a weekly note on what broke, what was measured and what changed.
-- [Software](https://buse.works/software): an MCP server, a Telegram agent, an encrypted sharing tool and multi-model workflows.
-
 **Public here**
 
 - [fugax-showcase](https://github.com/kierkegaard-source/fugax-showcase): encrypted, self-destructing sharing. The key never leaves the browser.
