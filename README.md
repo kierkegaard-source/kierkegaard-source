@@ -2,7 +2,9 @@
 
 Design engineer in Belgrade. I design interfaces, set the architecture and the tests, and drive AI agents through the build.
 
-I've worked in design since 2013, from infographics and brand work to complex dashboards. These days I do the design and the build myself, and I run [Massivate](https://github.com/Massivate), a growth studio.
+I've worked in design since 2013, from infographics and brand work to complex dashboards. These days I do the design and the build myself.
+
+I co-founded [Align Scale](https://alignscale.com) with Tümay Sönmez, a two-person design studio: brand, product, motion and front-end, without the agency layers. Growth and marketing work goes to [Massivate](https://github.com/Massivate), the growth studio we also run.
 
 **Public here**
 
@@ -16,4 +18,4 @@ Most of my client work lives in private repositories.
 
 Outside work I build games. Four cats supervise all of it.
 
-[buse.works](https://buse.works) · [X](https://x.com/buseturgay) · [LinkedIn](https://www.linkedin.com/in/buseturgay/) · hello@buse.works
+[buse.works](https://buse.works) · [Align Scale](https://alignscale.com) · [X](https://x.com/buseturgay) · [LinkedIn](https://www.linkedin.com/in/buseturgay/) · hello@buse.works
