@@ -14,8 +14,6 @@ I co-founded [Align Scale](https://alignscale.com) with Tümay Sönmez, a two-pe
 - [fugax-showcase](https://github.com/kierkegaard-source/fugax-showcase): encrypted, self-destructing sharing. The key never leaves the browser.
 - [astro-engine](https://github.com/kierkegaard-source/astro-engine): natal chart calculation service on FastAPI and Swiss Ephemeris.
 
-Most of my client work lives in private repositories.
-
 Outside work I build games. Four cats supervise all of it.
 
 [buse.works](https://buse.works) · [Align Scale](https://alignscale.com) · [X](https://x.com/buseturgay) · [LinkedIn](https://www.linkedin.com/in/buseturgay/) · hello@buse.works
